@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .bg-blue-600:hover {
+    background-color: #1e40af;
+  }
+  
+  .bg-green-600:hover {
+    background-color: #16a34a;
+  }
+  
+  .bg-purple-600:hover {
+    background-color: #9333ea;
+  }
+  
